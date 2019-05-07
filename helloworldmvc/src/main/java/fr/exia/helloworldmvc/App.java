@@ -1,4 +1,4 @@
-package fr.exia.helloworldmaven;
+package fr.exia.helloworldmvc;
 
 /**
  * Hello world!
